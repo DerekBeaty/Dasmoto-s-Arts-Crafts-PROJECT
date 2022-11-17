@@ -1,0 +1,39 @@
+body {border-style: solid;
+    border-width: 2px;
+    border-color: red;
+}
+
+header {font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;    
+}
+
+.header1 {background-image: url("C:/Users/dbeat/Desktop/Projects/Dasmoto's Arts&Crafts PROJECT/Image-1.jpeg");}
+
+h1 {font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#brushes {background-color: mediumspringgreen;}
+#frames {background-color: lightcoral;}
+#paint { background-color: skyblue;}
+
+h2 {font-family: helvetica;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h3 {font-family: helvetica;
+    font-size: 16px;
+font-weight: lighter;}
+
+.blue {font-family: helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+
